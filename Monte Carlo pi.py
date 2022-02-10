@@ -1,5 +1,5 @@
 #!python3
-#Thomas Cellitti 3G 09/02/2022
+#Thomas Cellitti 09/02/2022
 #GitHub: thom0075
 #Type of License: MIT
 #This program must be executed using the terminal for efficiency and stability reasons
